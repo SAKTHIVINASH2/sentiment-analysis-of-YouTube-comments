@@ -9,7 +9,7 @@ Sentiment analysis of YouTube comments unlocks a treasure trove of insights into
 1. Data Collection:
 * Target Source: We'll focus on Ken Jee's YouTube channel dedicated to data science and analytics. This provides a controlled environment with a target audience likely interested in data analysis.
 * API or Script: Utilize the YouTube Data API (v3) or a web scraping script to collect comments from relevant videos on Ken Jee's channel.
-* Dataset used: [click here](http://www.google.fr/ "Dataset used title")
+* Dataset used: [click here](data_set/ "Dataset used title")
 2. Data Preprocessing:
 * Cleaning: Remove irrelevant information like punctuation, usernames, URLs, and emojis.
 * Normalization: Convert text to lowercase and handle typos/abbreviations.
